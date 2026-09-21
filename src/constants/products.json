@@ -1,0 +1,837 @@
+[
+  {
+    "id": 1,
+    "title": "Classic Oxford Shirt",
+    "description": "Timeless oxford shirt crafted from premium cotton with a button-down collar and tailored fit.",
+    "price": 59,
+    "rating": 4.6,
+    "genderCategory": "men",
+    "productType": "shirt",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800&q=80"
+  },
+  {
+    "id": 2,
+    "title": "Slim Fit Chinos",
+    "description": "Modern slim-fit chinos in stretch cotton twill for all-day comfort and style.",
+    "price": 69,
+    "rating": 4.4,
+    "genderCategory": "men",
+    "productType": "pant",
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=800&q=80"
+  },
+  {
+    "id": 3,
+    "title": "Floral Summer Dress",
+    "description": "Lightweight floral midi dress with a flattering A-line silhouette and breathable fabric.",
+    "price": 89,
+    "rating": 4.8,
+    "genderCategory": "women",
+    "productType": "dress",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=800&q=80"
+  },
+  {
+    "id": 4,
+    "title": "Leather Belt",
+    "description": "Full-grain leather belt with a brushed metal buckle, a versatile everyday accessory.",
+    "price": 45,
+    "rating": 4.5,
+    "genderCategory": "men",
+    "productType": "accessories",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&q=80"
+  },
+  {
+    "id": 5,
+    "title": "White Sneakers",
+    "description": "Minimalist white leather sneakers with cushioned insoles for everyday wear.",
+    "price": 99,
+    "rating": 4.7,
+    "genderCategory": "women",
+    "productType": "footwear",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=800&q=80"
+  },
+  {
+    "id": 6,
+    "title": "Kids Dinosaur Tee",
+    "description": "Fun dinosaur graphic t-shirt made from soft organic cotton for kids.",
+    "price": 25,
+    "rating": 4.9,
+    "genderCategory": "kids",
+    "productType": "shirt",
+    "sizes": [
+      "2T",
+      "3T",
+      "4T",
+      "5T"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?w=800&q=80"
+  },
+  {
+    "id": 7,
+    "title": "Denim Jacket",
+    "description": "Classic denim jacket with a vintage wash and comfortable relaxed fit.",
+    "price": 119,
+    "rating": 4.6,
+    "genderCategory": "men",
+    "productType": "shirt",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=800&q=80"
+  },
+  {
+    "id": 8,
+    "title": "High-Waist Jeans",
+    "description": "Flattering high-waist skinny jeans with premium stretch denim.",
+    "price": 79,
+    "rating": 4.5,
+    "genderCategory": "women",
+    "productType": "pant",
+    "sizes": [
+      "24",
+      "26",
+      "28",
+      "30"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800&q=80"
+  },
+  {
+    "id": 9,
+    "title": "Silk Scarf",
+    "description": "Luxurious silk scarf with a hand-rolled edge and vibrant artistic print.",
+    "price": 55,
+    "rating": 4.7,
+    "genderCategory": "women",
+    "productType": "accessories",
+    "sizes": [
+      "One Size"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1601924994987-69e26d50dc26?w=800&q=80"
+  },
+  {
+    "id": 10,
+    "title": "Running Shoes",
+    "description": "Lightweight performance running shoes with responsive cushioning and breathable mesh.",
+    "price": 129,
+    "rating": 4.8,
+    "genderCategory": "men",
+    "productType": "footwear",
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&q=80"
+  },
+  {
+    "id": 11,
+    "title": "Kids Denim Overalls",
+    "description": "Durable denim overalls with adjustable straps and multiple pockets for play.",
+    "price": 45,
+    "rating": 4.6,
+    "genderCategory": "kids",
+    "productType": "pant",
+    "sizes": [
+      "2T",
+      "3T",
+      "4T",
+      "5T"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1522771930-78848d9293e8?w=800&q=80"
+  },
+  {
+    "id": 12,
+    "title": "Linen Button-Up",
+    "description": "Breathable linen button-up shirt perfect for warm weather and casual occasions.",
+    "price": 75,
+    "rating": 4.4,
+    "genderCategory": "men",
+    "productType": "shirt",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800&q=80"
+  },
+  {
+    "id": 13,
+    "title": "Wrap Midi Dress",
+    "description": "Elegant wrap midi dress with a V-neckline and tie waist in flowing fabric.",
+    "price": 95,
+    "rating": 4.7,
+    "genderCategory": "women",
+    "productType": "dress",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=800&q=80"
+  },
+  {
+    "id": 14,
+    "title": "Aviator Sunglasses",
+    "description": "Classic aviator sunglasses with polarized lenses and lightweight metal frame.",
+    "price": 85,
+    "rating": 4.5,
+    "genderCategory": "men",
+    "productType": "accessories",
+    "sizes": [
+      "One Size"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=800&q=80"
+  },
+  {
+    "id": 15,
+    "title": "Ballet Flats",
+    "description": "Soft leather ballet flats with a cushioned footbed and elegant bow detail.",
+    "price": 79,
+    "rating": 4.6,
+    "genderCategory": "women",
+    "productType": "footwear",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?w=800&q=80"
+  },
+  {
+    "id": 16,
+    "title": "Kids Striped Hoodie",
+    "description": "Cozy striped hoodie in soft fleece with kangaroo pocket for everyday warmth.",
+    "price": 35,
+    "rating": 4.7,
+    "genderCategory": "kids",
+    "productType": "shirt",
+    "sizes": [
+      "4T",
+      "5T",
+      "6",
+      "7"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1503919545889-aef636e10ad4?w=800&q=80"
+  },
+  {
+    "id": 17,
+    "title": "Cargo Pants",
+    "description": "Utility cargo pants with multiple pockets and a relaxed tapered fit.",
+    "price": 89,
+    "rating": 4.3,
+    "genderCategory": "men",
+    "productType": "pant",
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517438476312-10d79c077509?w=800&q=80"
+  },
+  {
+    "id": 18,
+    "title": "Cashmere Sweater",
+    "description": "Ultra-soft cashmere sweater with a relaxed fit and ribbed trims.",
+    "price": 189,
+    "rating": 4.9,
+    "genderCategory": "women",
+    "productType": "shirt",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800&q=80"
+  },
+  {
+    "id": 19,
+    "title": "Leather Crossbody Bag",
+    "description": "Compact leather crossbody bag with adjustable strap and gold-tone hardware.",
+    "price": 149,
+    "rating": 4.8,
+    "genderCategory": "women",
+    "productType": "accessories",
+    "sizes": [
+      "One Size"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=800&q=80"
+  },
+  {
+    "id": 20,
+    "title": "Chelsea Boots",
+    "description": "Classic Chelsea boots in premium suede with elastic side panels and pull tabs.",
+    "price": 159,
+    "rating": 4.7,
+    "genderCategory": "men",
+    "productType": "footwear",
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1638247025967-b4e38f787b76?w=800&q=80"
+  },
+  {
+    "id": 21,
+    "title": "Kids Rainbow Dress",
+    "description": "Colorful rainbow-print dress with a twirl-worthy skirt and soft cotton lining.",
+    "price": 42,
+    "rating": 4.8,
+    "genderCategory": "kids",
+    "productType": "dress",
+    "sizes": [
+      "2T",
+      "3T",
+      "4T",
+      "5T"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1518831959646-742c3a14ebf7?w=800&q=80"
+  },
+  {
+    "id": 22,
+    "title": "Polo Shirt",
+    "description": "Classic pique polo shirt with ribbed collar and cuffs in a tailored fit.",
+    "price": 55,
+    "rating": 4.5,
+    "genderCategory": "men",
+    "productType": "shirt",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1586790170083-2f9ceadc732d?w=800&q=80"
+  },
+  {
+    "id": 23,
+    "title": "Pleated Midi Skirt",
+    "description": "Elegant pleated midi skirt with a comfortable elastic waistband and flowing drape.",
+    "price": 72,
+    "rating": 4.6,
+    "genderCategory": "women",
+    "productType": "pant",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583496661160-fb5886a13d77?w=800&q=80"
+  },
+  {
+    "id": 24,
+    "title": "Wool Beanie",
+    "description": "Warm ribbed wool beanie with a fold-over cuff for extra cozy coverage.",
+    "price": 32,
+    "rating": 4.4,
+    "genderCategory": "men",
+    "productType": "accessories",
+    "sizes": [
+      "One Size"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1576871337622-98d48d1cf531?w=800&q=80"
+  },
+  {
+    "id": 25,
+    "title": "Strappy Sandals",
+    "description": "Elegant strappy sandals with a block heel and adjustable ankle strap.",
+    "price": 89,
+    "rating": 4.5,
+    "genderCategory": "women",
+    "productType": "footwear",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=800&q=80"
+  },
+  {
+    "id": 26,
+    "title": "Kids Sneakers",
+    "description": "Lightweight kids sneakers with hook-and-loop straps and cushioned soles.",
+    "price": 49,
+    "rating": 4.7,
+    "genderCategory": "kids",
+    "productType": "footwear",
+    "sizes": [
+      "28",
+      "29",
+      "30",
+      "31",
+      "32"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?w=800&q=80"
+  },
+  {
+    "id": 27,
+    "title": "Flannel Shirt",
+    "description": "Soft brushed flannel shirt with a classic plaid pattern and chest pockets.",
+    "price": 65,
+    "rating": 4.5,
+    "genderCategory": "men",
+    "productType": "shirt",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1589310243389-96a5483213a8?w=800&q=80"
+  },
+  {
+    "id": 28,
+    "title": "Bodycon Dress",
+    "description": "Sleek bodycon dress in stretch jersey with a square neckline and midi length.",
+    "price": 79,
+    "rating": 4.4,
+    "genderCategory": "women",
+    "productType": "dress",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1566174053879-31528523f8ae?w=800&q=80"
+  },
+  {
+    "id": 29,
+    "title": "Minimalist Watch",
+    "description": "Slim minimalist watch with a stainless steel case and genuine leather strap.",
+    "price": 199,
+    "rating": 4.8,
+    "genderCategory": "men",
+    "productType": "accessories",
+    "sizes": [
+      "One Size"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=800&q=80"
+  },
+  {
+    "id": 30,
+    "title": "Platform Sneakers",
+    "description": "Trendy platform sneakers with chunky soles and premium leather upper.",
+    "price": 109,
+    "rating": 4.6,
+    "genderCategory": "women",
+    "productType": "footwear",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=800&q=80"
+  },
+  {
+    "id": 31,
+    "title": "Kids Jogger Pants",
+    "description": "Comfortable jogger pants in soft fleece with elastic waist and cuffed ankles.",
+    "price": 32,
+    "rating": 4.6,
+    "genderCategory": "kids",
+    "productType": "pant",
+    "sizes": [
+      "4T",
+      "5T",
+      "6",
+      "7"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1519457431-44ccd64a579b?w=800&q=80"
+  },
+  {
+    "id": 32,
+    "title": "Merino Wool Tee",
+    "description": "Odor-resistant merino wool t-shirt that regulates temperature and wicks moisture.",
+    "price": 85,
+    "rating": 4.7,
+    "genderCategory": "men",
+    "productType": "shirt",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800&q=80"
+  },
+  {
+    "id": 33,
+    "title": "Off-Shoulder Blouse",
+    "description": "Romantic off-shoulder blouse with ruffled sleeves and a relaxed fit.",
+    "price": 62,
+    "rating": 4.5,
+    "genderCategory": "women",
+    "productType": "shirt",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1564257577033-4d15e5c2b5e2?w=800&q=80"
+  },
+  {
+    "id": 34,
+    "title": "Canvas Tote Bag",
+    "description": "Spacious canvas tote bag with reinforced handles and interior pocket.",
+    "price": 38,
+    "rating": 4.4,
+    "genderCategory": "women",
+    "productType": "accessories",
+    "sizes": [
+      "One Size"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544816155-12df9643f363?w=800&q=80"
+  },
+  {
+    "id": 35,
+    "title": "Hiking Boots",
+    "description": "Rugged hiking boots with waterproof membrane and high-traction rubber sole.",
+    "price": 179,
+    "rating": 4.8,
+    "genderCategory": "men",
+    "productType": "footwear",
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1520219306100-ec69d7e7e2f4?w=800&q=80"
+  },
+  {
+    "id": 36,
+    "title": "Kids Puffer Jacket",
+    "description": "Lightweight puffer jacket with water-resistant shell and cozy fill for kids.",
+    "price": 68,
+    "rating": 4.7,
+    "genderCategory": "kids",
+    "productType": "shirt",
+    "sizes": [
+      "4T",
+      "5T",
+      "6",
+      "7"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1503944583220-79d8926ad5e2?w=800&q=80"
+  },
+  {
+    "id": 37,
+    "title": "Tailored Blazer",
+    "description": "Sharp tailored blazer with structured shoulders and a single-button closure.",
+    "price": 225,
+    "rating": 4.7,
+    "genderCategory": "men",
+    "productType": "shirt",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800&q=80"
+  },
+  {
+    "id": 38,
+    "title": "Wide-Leg Trousers",
+    "description": "Chic wide-leg trousers with a high waist and flowing silhouette.",
+    "price": 88,
+    "rating": 4.6,
+    "genderCategory": "women",
+    "productType": "pant",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=800&q=80"
+  },
+  {
+    "id": 39,
+    "title": "Pearl Earrings",
+    "description": "Elegant freshwater pearl earrings with sterling silver posts and backs.",
+    "price": 65,
+    "rating": 4.9,
+    "genderCategory": "women",
+    "productType": "accessories",
+    "sizes": [
+      "One Size"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=800&q=80"
+  },
+  {
+    "id": 40,
+    "title": "Espadrille Wedges",
+    "description": "Summer espadrille wedges with woven jute sole and canvas upper.",
+    "price": 95,
+    "rating": 4.5,
+    "genderCategory": "women",
+    "productType": "footwear",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1562273138-f46be4ebdf33?w=800&q=80"
+  },
+  {
+    "id": 41,
+    "title": "Kids Graphic Sweatshirt",
+    "description": "Fun graphic sweatshirt in soft cotton blend with ribbed cuffs and hem.",
+    "price": 38,
+    "rating": 4.6,
+    "genderCategory": "kids",
+    "productType": "shirt",
+    "sizes": [
+      "2T",
+      "3T",
+      "4T",
+      "5T"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?w=800&q=80"
+  },
+  {
+    "id": 42,
+    "title": "Performance Golf Polo",
+    "description": "Moisture-wicking golf polo with UV protection and four-way stretch fabric.",
+    "price": 78,
+    "rating": 4.6,
+    "genderCategory": "men",
+    "productType": "shirt",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1625910513413-5fc45e4401a7?w=800&q=80"
+  },
+  {
+    "id": 43,
+    "title": "Sequin Party Dress",
+    "description": "Dazzling sequin party dress with a fitted bodice and flared hemline.",
+    "price": 145,
+    "rating": 4.7,
+    "genderCategory": "women",
+    "productType": "dress",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=800&q=80"
+  },
+  {
+    "id": 44,
+    "title": "Silk Tie",
+    "description": "Handcrafted silk tie with a subtle textured pattern and classic width.",
+    "price": 68,
+    "rating": 4.4,
+    "genderCategory": "men",
+    "productType": "accessories",
+    "sizes": [
+      "One Size"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1589756823695-278bc923f962?w=800&q=80"
+  },
+  {
+    "id": 45,
+    "title": "Leather Loafers",
+    "description": "Classic penny loafers in polished leather with a comfortable low heel.",
+    "price": 139,
+    "rating": 4.6,
+    "genderCategory": "men",
+    "productType": "footwear",
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1614252369475-531eba835eb1?w=800&q=80"
+  },
+  {
+    "id": 46,
+    "title": "Kids Denim Shorts",
+    "description": "Classic denim shorts with adjustable waist and rolled cuffs for kids.",
+    "price": 28,
+    "rating": 4.5,
+    "genderCategory": "kids",
+    "productType": "pant",
+    "sizes": [
+      "2T",
+      "3T",
+      "4T",
+      "5T"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=800&q=80"
+  },
+  {
+    "id": 47,
+    "title": "Oversized Hoodie",
+    "description": "Cozy oversized hoodie in heavyweight cotton with dropped shoulders.",
+    "price": 82,
+    "rating": 4.7,
+    "genderCategory": "women",
+    "productType": "shirt",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800&q=80"
+  },
+  {
+    "id": 48,
+    "title": "Leather Gloves",
+    "description": "Warm cashmere-lined leather gloves with touchscreen-compatible fingertips.",
+    "price": 75,
+    "rating": 4.5,
+    "genderCategory": "men",
+    "productType": "accessories",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9?w=800&q=80"
+  },
+  {
+    "id": 49,
+    "title": "Knit Cardigan",
+    "description": "Soft knit cardigan with button front and ribbed trim for layering.",
+    "price": 92,
+    "rating": 4.6,
+    "genderCategory": "women",
+    "productType": "shirt",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=800&q=80"
+  },
+  {
+    "id": 50,
+    "title": "Kids Rain Boots",
+    "description": "Fun waterproof rain boots with easy pull-on handles and non-slip soles.",
+    "price": 35,
+    "rating": 4.8,
+    "genderCategory": "kids",
+    "productType": "footwear",
+    "sizes": [
+      "28",
+      "29",
+      "30",
+      "31",
+      "32"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1514989940723-e8e51635b782?w=800&q=80"
+  }
+]
